@@ -50059,289 +50059,289 @@
               "Key": "PlayerMenu_Journal_Tutorial_Prompt",
               "Hash": 703215110,
               "Original": "<gold>Tip: </>To see the objective markers for a given quest, click the eye icon beside it.",
-              "Value": "<gold>Tip: </>To see the objective markers for a given quest, click the eye icon beside it."
+              "Value": "<gold>Dica: </>Para ver os marcadores de objetivo de uma missão, clique no ícone de olho ao lado dela."
             },
             {
               "Key": "Tutorial_TGR_Breach_Death",
               "Hash": 574804677,
               "Original": "<gold>Tip:</> Breaking The Golden Rule isn’t the end, and it is possible to survive, if you follow the Magistrate.",
-              "Value": "<gold>Tip:</> Breaking The Golden Rule isn’t the end, and it is possible to survive, if you follow the Magistrate."
+              "Value": "<gold>Dica:</> Quebrar a Regra de Ouro não é o fim, e é possível sobreviver se você seguir o Magistrado."
             },
             {
               "Key": "Tutorial_TGR_Breach_SaveGames",
               "Hash": 1301830299,
               "Original": "<gold>Tip:</> Breaking The Golden Rule isn’t the end. Instead of reloading a save, we recommend following the Magistrate instead.",
-              "Value": "<gold>Tip:</> Breaking The Golden Rule isn’t the end. Instead of reloading a save, we recommend following the Magistrate instead."
+              "Value": "<gold>Dica:</> Quebrar a Regra de Ouro não é o fim. Em vez de carregar um salvamento, recomendamos seguir o Magistrado."
             },
             {
               "Key": "EndGameCredits_Ending_1_0",
               "Hash": 1914037840,
               "Original": "<gold>Tip:</> How many might have survived if you hadn’t killed Sentius in cold blood?",
-              "Value": "<gold>Tip:</> How many might have survived if you hadn’t killed Sentius in cold blood?"
+              "Value": "<gold>Dica:</> Quantos poderiam ter sobrevivido se você não tivesse matado Sentius a sangue-frio?"
             },
             {
               "Key": "EndGameCredits_Ending_1_1",
               "Hash": 3855209031,
               "Original": "<gold>Tip:</> How many might have survived if you’d asked the Gods - or perhaps a Priestess - for help?",
-              "Value": "<gold>Tip:</> How many might have survived if you’d asked the Gods - or perhaps a Priestess - for help?"
+              "Value": "<gold>Dica:</> Quantos poderiam ter sobrevivido se você tivesse pedido ajuda aos Deuses — ou talvez a uma Sacerdotisa?"
             },
             {
               "Key": "EndGameCredits_Ending_2_1",
               "Hash": 1131788957,
               "Original": "<gold>Tip:</> How many might have survived if you’d confronted the God of the Underworld?",
-              "Value": "<gold>Tip:</> How many might have survived if you’d confronted the God of the Underworld?"
+              "Value": "<gold>Dica:</> Quantos poderiam ter sobrevivido se você tivesse confrontado o Deus do Submundo?"
             },
             {
               "Key": "EndGameCredits_Ending_2_0",
               "Hash": 2530872685,
               "Original": "<gold>Tip:</> How many might have survived if you’d walked away from Sentilla?",
-              "Value": "<gold>Tip:</> How many might have survived if you’d walked away from Sentilla?"
+              "Value": "<gold>Dica:</> Quantos poderiam ter sobrevivido se você tivesse se afastado de Sentilla?"
             },
             {
               "Key": "Tutorial_Equipment_Switching_Tip",
               "Hash": 984713020,
               "Original": "<gold>Tip:</> Use <input id=\"SelectItemPrev\"/> and <input id=\"SelectItemNext\"/> to cycle through your flashlight and weapons.",
-              "Value": "<gold>Tip:</> Use <input id=\"SelectItemPrev\"/> and <input id=\"SelectItemNext\"/> to cycle through your flashlight and weapons."
+              "Value": "<gold>Dica:</> Use <input id=\"SelectItemPrev\"/> e <input id=\"SelectItemNext\"/> para alternar entre a sua lanterna e armas."
             },
             {
               "Key": "EndGameCredits_Ending_Count",
               "Hash": 1141577282,
               "Original": "<goldlarge>ENDING {number} OF 4</>",
-              "Value": "<goldlarge>ENDING {number} OF 4</>"
+              "Value": "<goldlarge>FINAL {number} DE 4</>"
             },
             {
               "Key": "Settings_Audio_Voice_Tip",
               "Hash": 1567824513,
               "Original": "Adjust Character Voices and Narration",
-              "Value": "Adjust Character Voices and Narration"
+              "Value": "Ajusta as vozes dos personagens e a narração"
             },
             {
               "Key": "Settings_Audio_Music_Tip",
               "Hash": 1000197563,
               "Original": "Adjust Menu and In-Game Music",
-              "Value": "Adjust Menu and In-Game Music"
+              "Value": "Ajusta as músicas do menu e do jogo"
             },
             {
               "Key": "Settings_Audio_UserInterface_Tip",
               "Hash": 2631720983,
               "Original": "Adjust UI Sounds (button clicks, quest prompts etc)",
-              "Value": "Adjust UI Sounds (button clicks, quest prompts etc)"
+              "Value": "Ajusta os sons da interface (cliques de botão, avisos de missão, etc.)"
             },
             {
               "Key": "Settings_Audio_Effects_Tip",
               "Hash": 1183057538,
               "Original": "Adjust distinct sound effects (footsteps, impacts etc)",
-              "Value": "Adjust distinct sound effects (footsteps, impacts etc)"
+              "Value": "Ajusta efeitos sonoros distintos (passos, impactos, etc.)"
             },
             {
               "Key": "Settings_Audio_Ambience_Tip",
               "Hash": 2209064929,
               "Original": "Adjust the background sounds (waterfalls, birds etc)",
-              "Value": "Adjust the background sounds (waterfalls, birds etc)"
+              "Value": "Ajusta os sons de fundo (cachoeiras, pássaros, etc.)"
             },
             {
               "Key": "Settings_Video_Gamma_Tip",
               "Hash": 1016358387,
               "Original": "Adjust the brightness of darker colours in the game. Use this if parts of the game appear too dark on your screen.",
-              "Value": "Adjust the brightness of darker colours in the game. Use this if parts of the game appear too dark on your screen."
+              "Value": "Ajusta o brilho das cores mais escuras no jogo. Use isso se algumas partes do jogo parecerem escuras demais na sua tela."
             },
             {
               "Key": "Settings_Audio_MasterVolume_Tip",
               "Hash": 2608802605,
               "Original": "Adjust the overall sound volume",
-              "Value": "Adjust the overall sound volume"
+              "Value": "Ajusta o volume geral do som"
             },
             {
               "Key": "Settings_Video_MotionBlur_Tip",
               "Hash": 4263649601,
               "Original": "Adjust the scale of Motion Blur when it is used in game. 0% disables it.",
-              "Value": "Adjust the scale of Motion Blur when it is used in game. 0% disables it."
+              "Value": "Ajusta a intensidade do Desenfoque de Movimento quando for usado no jogo. 0% desativa."
             },
             {
               "Key": "Settings_Video_Overall_Tip",
               "Hash": 921582562,
               "Original": "Adjusts all the Quality controls at once.",
-              "Value": "Adjusts all the Quality controls at once."
+              "Value": "Ajusta todas as configurações de Qualidade de uma só vez."
             },
             {
               "Key": "Settings_Audio_Ambience",
               "Hash": 3403052037,
               "Original": "Ambience",
-              "Value": "Ambience"
+              "Value": "Ambiência"
             },
             {
               "Key": "LoadSave_Save_Error",
               "Hash": 893991068,
               "Original": "An error occurred while saving.\r\nThis could be the result of insufficient drive space or a corrupted installation.\r\nPlease ensure there is sufficient space available on your drive, and if that does not help, reinstall the game.",
-              "Value": "An error occurred while saving.\r\nThis could be the result of insufficient drive space or a corrupted installation.\r\nPlease ensure there is sufficient space available on your drive, and if that does not help, reinstall the game."
+              "Value": "Ocorreu um erro ao salvar.\r\nIsso pode ser resultado de espaço insuficiente em disco ou de uma instalação corrompida.\r\nVerifique se há espaço suficiente disponível no seu disco e, se isso não ajudar, reinstale o jogo."
             },
             {
               "Key": "LoadSave_ConfirmDelete",
               "Hash": 518542403,
               "Original": "Are you sure you want to Delete - {SaveGame}",
-              "Value": "Are you sure you want to Delete - {SaveGame}"
+              "Value": "Tem certeza de que deseja excluir - {SaveGame}"
             },
             {
               "Key": "LoadSave_ConfirmLoadGame",
               "Hash": 3301554819,
               "Original": "Are you sure you want to Load - {SaveGame}?\r\nYou will lose unsaved Progress.",
-              "Value": "Are you sure you want to Load - {SaveGame}?\r\nYou will lose unsaved Progress."
+              "Value": "Tem certeza de que deseja carregar - {SaveGame}?\r\nVocê perderá o progresso não salvo."
             },
             {
               "Key": "LoadSave_ConfirmSaveOverwrite",
               "Hash": 1063748897,
               "Original": "Are you sure you want to Overwrite - {SaveGame}",
-              "Value": "Are you sure you want to Overwrite - {SaveGame}"
+              "Value": "Tem certeza de que deseja sobrescrever - {SaveGame}"
             },
             {
               "Key": "LoadSave_ConfirmDeleteCharacter",
               "Hash": 3136613336,
               "Original": "Are you sure you want to delete all saved games for character {character}?",
-              "Value": "Are you sure you want to delete all saved games for character {character}?"
+              "Value": "Tem certeza de que deseja excluir todos os jogos salvos do personagem {character}?"
             },
             {
               "Key": "PauseMenu_ConfirmQuit",
               "Hash": 1169780114,
               "Original": "Are you sure you want to leave? \r\nYou will lose unsaved progress.",
-              "Value": "Are you sure you want to leave? \r\nYou will lose unsaved progress."
+              "Value": "Tem certeza de que deseja sair?\r\nVocê perderá todo o progresso não salvo."
             },
             {
               "Key": "AudioSettings",
               "Hash": 2109760864,
               "Original": "Audio",
-              "Value": "Audio"
+              "Value": "Áudio"
             },
             {
               "Key": "Settings_Bindings_Title",
               "Hash": 1583282675,
               "Original": "Bindings",
-              "Value": "Bindings"
+              "Value": "Atribuições"
             },
             {
               "Key": "Input_CancelNarration",
               "Hash": 3720502547,
               "Original": "Cancel Narration",
-              "Value": "Cancel Narration"
+              "Value": "Cancelar Narração"
             },
             {
               "Key": "Settings_Video_Resolution_Tip",
               "Hash": 2563043017,
               "Original": "Changes the size the game renders to your monitor. Native resolution is best.\r\nReducing resolution will improve performance on some devices. \r\nOnly Affects Windowed and Fullscreen Screen Modes (Borderless is always native)",
-              "Value": "Changes the size the game renders to your monitor. Native resolution is best.\r\nReducing resolution will improve performance on some devices. \r\nOnly Affects Windowed and Fullscreen Screen Modes (Borderless is always native)"
+              "Value": "Altera o tamanho em que o jogo é renderizado no seu monitor. A resolução nativa é a ideal.\r\nReduzir a resolução melhorará o desempenho em alguns dispositivos.\r\nAfeta apenas os Modos de Tela Em Janela e Tela Cheia (Sem Borda é sempre nativa)"
             },
             {
               "Key": "CharacterCreation_ValidationError",
               "Hash": 1768106638,
               "Original": "Character name \"{name}\" already exists. \r\nPlease choose a unique name to continue.",
-              "Value": "Character name \"{name}\" already exists. \r\nPlease choose a unique name to continue."
+              "Value": "O nome de personagem \"{name}\" já existe.\r\nEscolha um nome exclusivo para continuar."
             },
             {
               "Key": "Settings_Language_Chinese",
               "Hash": 3140348118,
               "Original": "Chinese (Simplified)",
-              "Value": "Chinese (Simplified)"
+              "Value": "Chinês (Simplificado)"
             },
             {
               "Key": "SocialMedia_Connect_Heading",
               "Hash": 1304679290,
               "Original": "Connect With Us",
-              "Value": "Connect With Us"
+              "Value": "Conecte-se conosco"
             },
             {
               "Key": "InputBindings",
               "Hash": 530521669,
               "Original": "Control Bindings",
-              "Value": "Control Bindings"
+              "Value": "Atribuição de Controles"
             },
             {
               "Key": "InputSettings",
               "Hash": 818748456,
               "Original": "Controls",
-              "Value": "Controls"
+              "Value": "Controles"
             },
             {
               "Key": "Settings_Video_FieldOfView_Tip",
               "Hash": 3172017310,
               "Original": "Controls Horizontal FOV in Degrees. \r\n\r\nIncreasing this may help reduce Simulation Sickness.\r\n\r\nMoving slider to either extreme may affect graphical quality.",
-              "Value": "Controls Horizontal FOV in Degrees. \r\n\r\nIncreasing this may help reduce Simulation Sickness.\r\n\r\nMoving slider to either extreme may affect graphical quality."
+              "Value": "Controla o FOV horizontal em graus.\r\n\r\nAumentar esta opção pode ajudar a reduzir o enjoo de movimento.\r\n\r\nMover o deslizador para qualquer um dos extremos pode afetar a qualidade gráfica."
             },
             {
               "Key": "Input_Crouch",
               "Hash": 1941688548,
               "Original": "Crouch",
-              "Value": "Crouch"
+              "Value": "Agachar"
             },
             {
               "Key": "Scalability_Custom",
               "Hash": 674116147,
               "Original": "Custom",
-              "Value": "Custom"
+              "Value": "Personalizado"
             },
             {
               "Key": "Setting_Default",
               "Hash": 940523119,
               "Original": "Default",
-              "Value": "Default"
+              "Value": "Padrão"
             },
             {
               "Key": "LoadSave_ConfirmDelete_Heading",
               "Hash": 2521162356,
               "Original": "Delete - Confirmation",
-              "Value": "Delete - Confirmation"
+              "Value": "Excluir - Confirmação"
             },
             {
               "Key": "LoadSave_DeleteCharacter_Button",
               "Hash": 3943324315,
               "Original": "Delete Character",
-              "Value": "Delete Character"
+              "Value": "Excluir Personagem"
             },
             {
               "Key": "Settings_Video_Heading_Display",
               "Hash": 4174992090,
               "Original": "Display",
-              "Value": "Display"
+              "Value": "Exibição"
             },
             {
               "Key": "EnableDisableSubtitles",
               "Hash": 3925926300,
               "Original": "Display Subtitles",
-              "Value": "Display Subtitles"
+              "Value": "Exibir Legendas"
             },
             {
               "Key": "Settings_Interface_DrawObjectiveMarkers",
               "Hash": 3142330396,
               "Original": "Draw Objective Markers",
-              "Value": "Draw Objective Markers"
+              "Value": "Exibir Marcadores de Objetivo"
             },
             {
               "Key": "Settings_Audio_Effects",
               "Hash": 1681489126,
               "Original": "Effects",
-              "Value": "Effects"
+              "Value": "Efeitos"
             },
             {
               "Key": "SocialMedia_Email",
               "Hash": 739243798,
               "Original": "Email",
-              "Value": "Email"
+              "Value": "E-mail"
             },
             {
               "Key": "Settings_Language_English",
               "Hash": 1774339110,
               "Original": "English",
-              "Value": "English"
+              "Value": "Inglês"
             },
             {
               "Key": "Scalability_Epic",
               "Hash": 2061566512,
               "Original": "Epic",
-              "Value": "Epic"
+              "Value": "Épico"
             },
             {
               "Key": "Settings_Error",
               "Hash": 2630475244,
               "Original": "Error!",
-              "Value": "Error!"
+              "Value": "Erro!"
             },
             {
               "Key": "SocialMedia_Facebook",
@@ -50359,55 +50359,55 @@
               "Key": "Settings_Video_FieldOfView",
               "Hash": 2398073309,
               "Original": "Field of View",
-              "Value": "Field of View"
+              "Value": "Campo de Visão"
             },
             {
               "Key": "Settings_Language_French",
               "Hash": 312596546,
               "Original": "French",
-              "Value": "French"
+              "Value": "Francês"
             },
             {
               "Key": "Game",
               "Hash": 3420313574,
               "Original": "Game",
-              "Value": "Game"
+              "Value": "Jogo"
             },
             {
               "Key": "Settings_Video_Gamma",
               "Hash": 43410284,
               "Original": "Gamma Correction",
-              "Value": "Gamma Correction"
+              "Value": "Correção de Gama"
             },
             {
               "Key": "Settings_Language_German",
               "Hash": 2567502953,
               "Original": "German",
-              "Value": "German"
+              "Value": "Alemão"
             },
             {
               "Key": "Scalability_High",
               "Hash": 546374199,
               "Original": "High",
-              "Value": "High"
+              "Value": "Alto"
             },
             {
               "Key": "Settings_Interface_Hints_Enabled",
               "Hash": 1532202242,
               "Original": "Hints Enabled",
-              "Value": "Hints Enabled"
+              "Value": "Dicas Ativadas"
             },
             {
               "Key": "Settings_Input_YawSensitivity",
               "Hash": 3415204915,
               "Original": "Horizontal Sensitivity",
-              "Value": "Horizontal Sensitivity"
+              "Value": "Sensibilidade Horizontal"
             },
             {
               "Key": "Settings_Input_Gamepad_Icons",
               "Hash": 3986496970,
               "Original": "Icon Style",
-              "Value": "Icon Style"
+              "Value": "Estilo de Ícone"
             },
             {
               "Key": "SocialMedia_Instagram",
@@ -50425,169 +50425,169 @@
               "Key": "Inventory_Menu",
               "Hash": 3005750574,
               "Original": "Inventory",
-              "Value": "Inventory"
+              "Value": "Inventário"
             },
             {
               "Key": "Settings_Input_LookInversion",
               "Hash": 3545018955,
               "Original": "Inverted Vertical Look",
-              "Value": "Inverted Vertical Look"
+              "Value": "Visão Vertical Invertida"
             },
             {
               "Key": "Settings_Language_Japanese",
               "Hash": 2279378794,
               "Original": "Japanese",
-              "Value": "Japanese"
+              "Value": "Japonês"
             },
             {
               "Key": "Input_PlayerMenu",
               "Hash": 3147116989,
               "Original": "Journal & Inventory",
-              "Value": "Journal & Inventory"
+              "Value": "Diário e Inventário"
             },
             {
               "Key": "Input_Jump",
               "Hash": 2857297041,
               "Original": "Jump",
-              "Value": "Jump"
+              "Value": "Pular"
             },
             {
               "Key": "Settings_Language_Korean",
               "Hash": 1931118664,
               "Original": "Korean",
-              "Value": "Korean"
+              "Value": "Coreano"
             },
             {
               "Key": "Settings_Language",
               "Hash": 283117022,
               "Original": "Language",
-              "Value": "Language"
+              "Value": "Idioma"
             },
             {
               "Key": "Settings_Interface_SubtitlesTextSize_Large",
               "Hash": 1620421534,
               "Original": "Large",
-              "Value": "Large"
+              "Value": "Grande"
             },
             {
               "Key": "PlayerMenu_Journal_Secondary",
               "Hash": 887084981,
               "Original": "Leads",
-              "Value": "Leads"
+              "Value": "Pistas"
             },
             {
               "Key": "LoadSave_ConfirmLoadGame_Heading",
               "Hash": 431467472,
               "Original": "Load - Confirmation",
-              "Value": "Load - Confirmation"
+              "Value": "Carregar - Confirmação"
             },
             {
               "Key": "LoadingScreen_Loading",
               "Hash": 3876153790,
               "Original": "Loading...",
-              "Value": "Loading..."
+              "Value": "Carregando..."
             },
             {
               "Key": "Scalability_Low",
               "Hash": 2979993132,
               "Original": "Low",
-              "Value": "Low"
+              "Value": "Baixo"
             },
             {
               "Key": "PlayerMenu_Journal_Primary",
               "Hash": 3899793503,
               "Original": "Main Goals",
-              "Value": "Main Goals"
+              "Value": "Objetivos Principais"
             },
             {
               "Key": "Settings_Audio_MasterVolume",
               "Hash": 192117882,
               "Original": "Master Volume",
-              "Value": "Master Volume"
+              "Value": "Volume Geral"
             },
             {
               "Key": "LoadSave_TooManySaves_Message",
               "Hash": 3627362006,
               "Original": "Maximum number of Saved Games reached ({count} / {limit}). Please delete at least {deletecount} older Saved Games before creating more.",
-              "Value": "Maximum number of Saved Games reached ({count} / {limit}). Please delete at least {deletecount} older Saved Games before creating more."
+              "Value": "Número máximo de jogos salvos atingido ({count} / {limit}). Exclua pelo menos {deletecount} jogos salvos mais antigos antes de criar novos."
             },
             {
               "Key": "Scalability_Medium",
               "Hash": 3469406434,
               "Original": "Medium",
-              "Value": "Medium"
+              "Value": "Médio"
             },
             {
               "Key": "Settings_Video_MotionBlur",
               "Hash": 722460428,
               "Original": "Motion Blur",
-              "Value": "Motion Blur"
+              "Value": "Desenfoque de Movimento"
             },
             {
               "Key": "Settings_Bindings_MK_Section",
               "Hash": 3176009577,
               "Original": "Mouse & Keyboard",
-              "Value": "Mouse & Keyboard"
+              "Value": "Mouse e Teclado"
             },
             {
               "Key": "Input_MoveBackward",
               "Hash": 2629952239,
               "Original": "Move Backwards",
-              "Value": "Move Backwards"
+              "Value": "Mover para Trás"
             },
             {
               "Key": "Input_MoveForward",
               "Hash": 650789851,
               "Original": "Move Forward",
-              "Value": "Move Forward"
+              "Value": "Mover para Frente"
             },
             {
               "Key": "Input_MoveLeft",
               "Hash": 872775331,
               "Original": "Move Left",
-              "Value": "Move Left"
+              "Value": "Mover para Esquerda"
             },
             {
               "Key": "Input_MoveRight",
               "Hash": 1992704023,
               "Original": "Move Right",
-              "Value": "Move Right"
+              "Value": "Mover para Direita"
             },
             {
               "Key": "Settings_Audio_Music",
               "Hash": 2627789632,
               "Original": "Music",
-              "Value": "Music"
+              "Value": "Música"
             },
             {
               "Key": "CharacterCreation_ValidationError_Heading",
               "Hash": 2842893553,
               "Original": "Name in Use",
-              "Value": "Name in Use"
+              "Value": "Nome em Uso"
             },
             {
               "Key": "Examine_Next_Page",
               "Hash": 459613933,
               "Original": "Next Page",
-              "Value": "Next Page"
+              "Value": "Próxima Página"
             },
             {
               "Key": "Input_NextVisualStyle",
               "Hash": 3592919959,
               "Original": "Next Visual Style",
-              "Value": "Next Visual Style"
+              "Value": "Próximo Estilo Visual"
             },
             {
               "Key": "Input_NextWeapon",
               "Hash": 4101948932,
               "Original": "Next Weapon",
-              "Value": "Next Weapon"
+              "Value": "Próxima Arma"
             },
             {
               "Key": "Setting_No",
               "Hash": 980478179,
               "Original": "No",
-              "Value": "No"
+              "Value": "Não"
             },
             {
               "Key": "Settings_Interface_SubtitlesTextSize_Normal",
@@ -50599,229 +50599,229 @@
               "Key": "Input_Guide",
               "Hash": 612836377,
               "Original": "Objective Guide",
-              "Value": "Objective Guide"
+              "Value": "Guia de Objetivos"
             },
             {
               "Key": "Setting_Ok",
               "Hash": 2042134314,
               "Original": "Ok",
-              "Value": "Ok"
+              "Value": "OK"
             },
             {
               "Key": "Settings_Video_Overall",
               "Hash": 3159058809,
               "Original": "Overall Quality",
-              "Value": "Overall Quality"
+              "Value": "Qualidade Geral"
             },
             {
               "Key": "Input_PhotoMode",
               "Hash": 1956117316,
               "Original": "Photo Mode",
-              "Value": "Photo Mode"
+              "Value": "Modo Foto"
             },
             {
               "Key": "SocialMedia_Connect_Link",
               "Hash": 888930953,
               "Original": "Please visit: {url}",
-              "Value": "Please visit: {url}"
+              "Value": "Acesse: {url}"
             },
             {
               "Key": "Examine_Previous_Page",
               "Hash": 2179806227,
               "Original": "Previous Page",
-              "Value": "Previous Page"
+              "Value": "Página Anterior"
             },
             {
               "Key": "Input_PreviousVisualStyle",
               "Hash": 1023733323,
               "Original": "Previous Visual Style",
-              "Value": "Previous Visual Style"
+              "Value": "Estilo Visual Anterior"
             },
             {
               "Key": "Input_PrevWeapon",
               "Hash": 2274092191,
               "Original": "Previous Weapon",
-              "Value": "Previous Weapon"
+              "Value": "Arma Anterior"
             },
             {
               "Key": "Settings_Interface_Quest_Prompts_Enabled",
               "Hash": 4170346359,
               "Original": "Quest Notifications Enabled",
-              "Value": "Quest Notifications Enabled"
+              "Value": "Notificações de Missão Ativadas"
             },
             {
               "Key": "PlayerMenu_Journal_Tutorial_Heading",
               "Hash": 2448449914,
               "Original": "Quest Tracking Tip",
-              "Value": "Quest Tracking Tip"
+              "Value": "Dica de Rastreamento de Missão"
             },
             {
               "Key": "Quests_Menu",
               "Hash": 3729207845,
               "Original": "Quests",
-              "Value": "Quests"
+              "Value": "Missões"
             },
             {
               "Key": "PauseMenu_ConfirmQuit_Heading",
               "Hash": 1853917818,
               "Original": "Quit to Menu",
-              "Value": "Quit to Menu"
+              "Value": "Sair para o Menu"
             },
             {
               "Key": "PlayerMenu_Inventory_ReadMode",
               "Hash": 4154656398,
               "Original": "Reading Mode",
-              "Value": "Reading Mode"
+              "Value": "Modo de Leitura"
             },
             {
               "Key": "Settings_RebindableControls",
               "Hash": 692260729,
               "Original": "Rebindable Controls",
-              "Value": "Rebindable Controls"
+              "Value": "Controles Reconfiguráveis"
             },
             {
               "Key": "Settings_Video_Resolution",
               "Hash": 1486462369,
               "Original": "Resolution",
-              "Value": "Resolution"
+              "Value": "Resolução"
             },
             {
               "Key": "Settings_Language_Russian",
               "Hash": 1593834588,
               "Original": "Russian",
-              "Value": "Russian"
+              "Value": "Russo"
             },
             {
               "Key": "LoadSave_ConfirmSaveOverwrite_Heading",
               "Hash": 2364606193,
               "Original": "Save - Confirmation",
-              "Value": "Save - Confirmation"
+              "Value": "Salvar - Confirmação"
             },
             {
               "Key": "LoadSave_Save_Error_Heading",
               "Hash": 2679748000,
               "Original": "Save - Error",
-              "Value": "Save - Error"
+              "Value": "Salvar - Erro"
             },
             {
               "Key": "LoadSave_TooManySaves_Heading",
               "Hash": 1462805482,
               "Original": "Save Limit Reached",
-              "Value": "Save Limit Reached"
+              "Value": "Limite de Salvamento Atingido"
             },
             {
               "Key": "Settings_Video_ScreenMode",
               "Hash": 3910985179,
               "Original": "Screen Mode",
-              "Value": "Screen Mode"
+              "Value": "Modo de Tela"
             },
             {
               "Key": "Settings_Input_Rebind_Heading",
               "Hash": 4065322055,
               "Original": "Select Button",
-              "Value": "Select Button"
+              "Value": "Selecionar Botão"
             },
             {
               "Key": "Settings_Input_Rebind",
               "Hash": 2343038217,
               "Original": "Select button to override {inputaction}...",
-              "Value": "Select button to override {inputaction}..."
+              "Value": "Selecione o botão para redefinir {inputaction}..."
             },
             {
               "Key": "Settings_Language_Tip",
               "Hash": 455740950,
               "Original": "Set the games display language",
-              "Value": "Set the games display language"
+              "Value": "Define o idioma de exibição do jogo"
             },
             {
               "Key": "Dialogue_SkipLine",
               "Hash": 2790615271,
               "Original": "Skip Line",
-              "Value": "Skip Line"
+              "Value": "Pular Fala"
             },
             {
               "Key": "Settings_Interface_SubtitlesTextSize_Small",
               "Hash": 708482,
               "Original": "Small",
-              "Value": "Small"
+              "Value": "Pequeno"
             },
             {
               "Key": "Settings_Language_Spanish",
               "Hash": 1777939165,
               "Original": "Spanish",
-              "Value": "Spanish"
+              "Value": "Espanhol"
             },
             {
               "Key": "Input_Sprint",
               "Hash": 2712401945,
               "Original": "Sprint",
-              "Value": "Sprint"
+              "Value": "Correr"
             },
             {
               "Key": "Settings_Input_Gamepad_Icons_Tip",
               "Hash": 1428790628,
               "Original": "Switch the style of displayed controller icons between the console platforms.",
-              "Value": "Switch the style of displayed controller icons between the console platforms."
+              "Value": "Alterna o estilo dos ícones do controle exibidos entre as plataformas de console."
             },
             {
               "Key": "EndGameCredits_ContinueHint",
               "Hash": 3325424609,
               "Original": "Tap <input id=\"Pause\"/> to continue.",
-              "Value": "Tap <input id=\"Pause\"/> to continue."
+              "Value": "Pressione <input id=\"Pause\"/> para continuar."
             },
             {
               "Key": "PauseMenu_PhotoModePrompt",
               "Hash": 707929491,
               "Original": "Tap <input id=\"PhotoMode\"/> to enter Photo Mode in game.",
-              "Value": "Tap <input id=\"PhotoMode\"/> to enter Photo Mode in game."
+              "Value": "Pressione <input id=\"PhotoMode\"/> para entrar no Modo Foto durante o jogo."
             },
             {
               "Key": "SocialMedia_Feedback_Popup",
               "Hash": 1491618429,
               "Original": "To give feedback or report bugs, please visit reddit.com/r/theforgottencity",
-              "Value": "To give feedback or report bugs, please visit reddit.com/r/theforgottencity"
+              "Value": "Para enviar feedback ou relatar erros, acesse reddit.com/r/theforgottencity"
             },
             {
               "Key": "Input_GameConsole",
               "Hash": 1747519518,
               "Original": "Toggle Game Console",
-              "Value": "Toggle Game Console"
+              "Value": "Alternar Console do Jogo"
             },
             {
               "Key": "Settings_Video_VSync_Tip",
               "Hash": 1701547912,
               "Original": "Toggle synchronising the game's framerate with your monitor's refresh rate. \r\nEnable this if you experience \"screen tearing\". \r\nCan sometimes introduce a little input lag.",
-              "Value": "Toggle synchronising the game's framerate with your monitor's refresh rate. \r\nEnable this if you experience \"screen tearing\". \r\nCan sometimes introduce a little input lag."
+              "Value": "Alterna a sincronização da taxa de quadros do jogo com a taxa de atualização do seu monitor.\r\nAtive isso se notar \"rasgos na imagem\".\r\nÀs vezes pode causar um pouco de atraso na resposta dos comandos."
             },
             {
               "Key": "Settings_Interface_DrawObjectiveMarkers_Tip",
               "Hash": 1149891589,
               "Original": "Toggle the visibility of Heads Up Display markers showing the location of the currently tracked quest objective.\r\n\r\n<gold>Yes:</> Show Markers. <golddimmed>(Default)</>\r\n<gold>No:</> Hide Markers.",
-              "Value": "Toggle the visibility of Heads Up Display markers showing the location of the currently tracked quest objective.\r\n\r\n<gold>Yes:</> Show Markers. <golddimmed>(Default)</>\r\n<gold>No:</> Hide Markers."
+              "Value": "Alterna a visibilidade dos marcadores no HUD que exibem a localização do objetivo da missão rastreada no momento.\r\n\r\n<gold>Sim:</> Exibir Marcadores. <golddimmed>(Padrão)</>\r\n<gold>Não:</> Ocultar Marcadores."
             },
             {
               "Key": "Settings_Video_ScreenMode_Tip",
               "Hash": 1762283286,
               "Original": "Toggles between Fullscreen, Borderless Window and Windowed display modes.",
-              "Value": "Toggles between Fullscreen, Borderless Window and Windowed display modes."
+              "Value": "Alterna entre os modos de exibição Tela Cheia, Janela Sem Borda e Em Janela."
             },
             {
               "Key": "Settings_Interface_Hints_Enabled_Tip",
               "Hash": 4126770313,
               "Original": "Toggles on or off receiving helpful whispered hints for some puzzles. This is for players who prefer to figure out puzzles on their own.",
-              "Value": "Toggles on or off receiving helpful whispered hints for some puzzles. This is for players who prefer to figure out puzzles on their own."
+              "Value": "Ativa ou desativa o recebimento de dicas sussurradas úteis para alguns enigmas. Recomendado para jogadores que preferem resolver os enigmas por conta própria."
             },
             {
               "Key": "Settings_Interface_Quest_Prompts_Tip",
               "Hash": 2959988038,
               "Original": "Toggles on or off receiving quest notifications as you complete them. You will still be able to view quests in your journal.",
-              "Value": "Toggles on or off receiving quest notifications as you complete them. You will still be able to view quests in your journal."
+              "Value": "Ativa ou desativa o recebimento de notificações de missões ao concluí-las. Você ainda poderá ver as missões no seu diário."
             },
             {
               "Key": "Tooltip_EnableDisableSubtitles",
               "Hash": 990154926,
               "Original": "Toggles the display of Subtitles during normal play.",
-              "Value": "Toggles the display of Subtitles during normal play."
+              "Value": "Alterna a exibição de legendas durante a jogabilidade normal."
             },
             {
               "Key": "SocialMedia_Twitter",
@@ -50833,61 +50833,61 @@
               "Key": "Input_Interact",
               "Hash": 3797823484,
               "Original": "Use / Interact",
-              "Value": "Use / Interact"
+              "Value": "Usar / Interagir"
             },
             {
               "Key": "Settings_Audio_UserInterface",
               "Hash": 251127239,
               "Original": "User Interface",
-              "Value": "User Interface"
+              "Value": "Interface do Usuário"
             },
             {
               "Key": "Settings_Input_PitchSensitivity",
               "Hash": 3535696856,
               "Original": "Vertical Sensitivity",
-              "Value": "Vertical Sensitivity"
+              "Value": "Sensibilidade Vertical"
             },
             {
               "Key": "Settings_Video_VSync",
               "Hash": 1702850049,
               "Original": "Vertical Sync",
-              "Value": "Vertical Sync"
+              "Value": "Sincronização Vertical"
             },
             {
               "Key": "Settings_Interface_SubtitlesTextSize_VeryLarge",
               "Hash": 492862474,
               "Original": "Very Large",
-              "Value": "Very Large"
+              "Value": "Muito Grande"
             },
             {
               "Key": "VideoSettings",
               "Hash": 1793626319,
               "Original": "Video",
-              "Value": "Video"
+              "Value": "Vídeo"
             },
             {
               "Key": "Settings_Audio_Voice",
               "Hash": 235147558,
               "Original": "Voice",
-              "Value": "Voice"
+              "Value": "Voz"
             },
             {
               "Key": "Input_Primary",
               "Hash": 822871366,
               "Original": "Weapon Primary",
-              "Value": "Weapon Primary"
+              "Value": "Ação Primária da Arma"
             },
             {
               "Key": "Input_Tertiary",
               "Hash": 516388372,
               "Original": "Weapon Secondary",
-              "Value": "Weapon Secondary"
+              "Value": "Ação Secundária da Arma"
             },
             {
               "Key": "Setting_Yes",
               "Hash": 998639455,
               "Original": "Yes",
-              "Value": "Yes"
+              "Value": "Sim"
             },
             {
               "Key": "SocialMedia_Youtube",
