@@ -49806,13 +49806,13 @@
               "Key": "CHAR_Goose",
               "Hash": 404952462,
               "Original": "Goose",
-              "Value": "Goose"
+              "Value": "Ganso"
             },
             {
               "Key": "CHAR_Galatea_Unknown",
               "Hash": 1477073165,
               "Original": "Half-peeled Statue",
-              "Value": "Half-peeled Statue"
+              "Value": "Estátua Parcialmente Descascada"
             },
             {
               "Key": "CHAR_Rufius",
@@ -49863,175 +49863,175 @@
               "Key": "Loading_Screen_Tip_02",
               "Hash": 1574701360,
               "Original": "A message from the Developers:\r\n\r\nThis game was developed by a core team of three people over four years.\r\n\r\nYour support allows us to continue doing what we love, and we are deeply grateful.",
-              "Value": "A message from the Developers:\r\n\r\nThis game was developed by a core team of three people over four years.\r\n\r\nYour support allows us to continue doing what we love, and we are deeply grateful."
+              "Value": "Uma mensagem dos desenvolvedores:\r\n\r\nEste jogo foi desenvolvido por uma equipe principal de três pessoas ao longo de quatro anos.\r\n\r\nSeu apoio nos permite continuar fazendo o que amamos, e somos profundamente gratos."
             },
             {
               "Key": "Chests_Arrow_Amphora_Name",
               "Hash": 2223013674,
               "Original": "Amphora of Arrows",
-              "Value": "Amphora of Arrows"
+              "Value": "Ânfora de Flechas"
             },
             {
               "Key": "Ungilded_Name",
               "Hash": 1959472795,
               "Original": "Golden Statue",
-              "Value": "Golden Statue"
+              "Value": "Estátua Dourada"
             },
             {
               "Key": "Ungilded_Name_Unknown",
               "Hash": 1959472795,
               "Original": "Golden Statue",
-              "Value": "Golden Statue"
+              "Value": "Estátua Dourada"
             },
             {
               "Key": "BP_Golden_Goose_Name",
               "Hash": 404952462,
               "Original": "Goose",
-              "Value": "Goose"
+              "Value": "Ganso"
             },
             {
               "Key": "BP_Nameless_God_Plaque_Slot_Verb",
               "Hash": 4008337693,
               "Original": "Inspect",
-              "Value": "Inspect"
+              "Value": "Inspecionar"
             },
             {
               "Key": "Inspectables_Verb",
               "Hash": 4008337693,
               "Original": "Inspect",
-              "Value": "Inspect"
+              "Value": "Inspecionar"
             },
             {
               "Key": "Door_Barred",
               "Hash": 3608873412,
               "Original": "It seems to be locked from the other side.",
-              "Value": "It seems to be locked from the other side."
+              "Value": "Parece estar trancada pelo outro lado."
             },
             {
               "Key": "Ungilded_Verb",
               "Hash": 2678462417,
               "Original": "Kick",
-              "Value": "Kick"
+              "Value": "Chutar"
             },
             {
               "Key": "Lockable_Locked",
               "Hash": 143338928,
               "Original": "Locked",
-              "Value": "Locked"
+              "Value": "Trancado"
             },
             {
               "Key": "BP_Nameless_God_Plaque_Slot",
               "Hash": 2613277380,
               "Original": "Missing Piece",
-              "Value": "Missing Piece"
+              "Value": "Peça Faltando"
             },
             {
               "Key": "No_Arrows",
               "Hash": 3174224444,
               "Original": "No Arrows",
-              "Value": "No Arrows"
+              "Value": "Sem Flechas"
             },
             {
               "Key": "No_Bullets",
               "Hash": 1028191219,
               "Original": "No Bullets",
-              "Value": "No Bullets"
+              "Value": "Sem Balas"
             },
             {
               "Key": "Lootable_Old_Chest",
               "Hash": 2914600498,
               "Original": "Old Chest",
-              "Value": "Old Chest"
+              "Value": "Baú Antigo"
             },
             {
               "Key": "Ungilded_Name_Alive",
               "Hash": 3565289464,
               "Original": "Peeled Statue",
-              "Value": "Peeled Statue"
+              "Value": "Estátua Descascada"
             },
             {
               "Key": "ZipLine_Verb",
               "Hash": 1323325883,
               "Original": "Ride",
-              "Value": "Ride"
+              "Value": "Usar"
             },
             {
               "Key": "Lootable_Searchable",
               "Hash": 1497939275,
               "Original": "Search",
-              "Value": "Search"
+              "Value": "Vasculhar"
             },
             {
               "Key": "BP_Nameless_God_Obelisk",
               "Hash": 201112322,
               "Original": "Stone Obelisk",
-              "Value": "Stone Obelisk"
+              "Value": "Obelisco de Pedra"
             },
             {
               "Key": "BP_Golden_Goose_Verb",
               "Hash": 675752487,
               "Original": "Talk",
-              "Value": "Talk"
+              "Value": "Falar"
             },
             {
               "Key": "Dialogue_Verb",
               "Hash": 675752487,
               "Original": "Talk",
-              "Value": "Talk"
+              "Value": "Falar"
             },
             {
               "Key": "Cancel_Narration",
               "Hash": 3479942656,
               "Original": "Tap <input id=\"SkipNarration\"/> again to cancel Narration.",
-              "Value": "Tap <input id=\"SkipNarration\"/> again to cancel Narration."
+              "Value": "Toque em <input id=\"SkipNarration\"/> novamente para cancelar a Narração."
             },
             {
               "Key": "Loading_Screen_Tip_01",
               "Hash": 2817708160,
               "Original": "This is a mystery adventure with multiple endings.\r\n\r\nIt rewards thoughtful conversation and exploration, not brute force.\r\n\r\nThe fate of the city is in your hands.",
-              "Value": "This is a mystery adventure with multiple endings.\r\n\r\nIt rewards thoughtful conversation and exploration, not brute force.\r\n\r\nThe fate of the city is in your hands."
+              "Value": "Esta é uma aventura de mistério com múltiplos finais.\r\n\r\nEla recompensa conversas ponderadas e exploração, não força bruta.\r\n\r\nO destino da cidade está em suas mãos."
             },
             {
               "Key": "Lockable_Unlockable",
               "Hash": 1380939206,
               "Original": "Unlock",
-              "Value": "Unlock"
+              "Value": "Destrancar"
             },
             {
               "Key": "ZipLine_Name",
               "Hash": 3047073118,
               "Original": "Zip Line",
-              "Value": "Zip Line"
+              "Value": "Tirolesa"
             },
             {
               "Key": "Gender_Female_Pronoun",
               "Hash": 213260881,
               "Original": "her",
-              "Value": "her"
+              "Value": "ela"
             },
             {
               "Key": "Gender_Male_Pronoun",
               "Hash": 1399015639,
               "Original": "him",
-              "Value": "him"
+              "Value": "ele"
             },
             {
               "Key": "StoryCharacter_Terrified",
               "Hash": 3761922813,
               "Original": "{name} is terrified, I should try talking to {pronoun} again later.",
-              "Value": "{name} is terrified, I should try talking to {pronoun} again later."
+              "Value": "{name} está aterrorizado(a), devo tentar falar com {pronoun} novamente mais tarde."
             },
             {
               "Key": "StoryCharacter_Busy",
               "Hash": 3489508370,
               "Original": "{name} looks busy, I should try talking to {pronoun} again later.",
-              "Value": "{name} looks busy, I should try talking to {pronoun} again later."
+              "Value": "{name} parece ocupado(a), devo tentar falar com {pronoun} novamente mais tarde."
             },
             {
               "Key": "StoryCharacter_Busy_Galerius_Errands",
               "Hash": 1290847918,
               "Original": "{name} will be unavailable until Galerius has finished his errands. I should try talking to {pronoun} later.",
-              "Value": "{name} will be unavailable until Galerius has finished his errands. I should try talking to {pronoun} later."
+              "Value": "{name} estará indisponível até que Galerius termine seus afazeres. Devo tentar falar com {pronoun} mais tarde."
             }
           ]
         },
