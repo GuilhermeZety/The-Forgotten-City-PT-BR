@@ -10,13 +10,13 @@ Tradução não oficial (fan translation) de **The Forgotten City** para **Portu
 
 Este projeto tem como objetivo traduzir completamente o jogo **The Forgotten City** para Português do Brasil.
 
-A tradução é feita preservando os arquivos originais do jogo, utilizando um arquivo `.pak` adicional contendo apenas os arquivos de localização modificados.
+A tradução é distribuída através de um arquivo `.pak`, preservando todos os arquivos originais do jogo.
 
 ---
 
 ## 🎮 Compatibilidade
 
-Atualmente a tradução foi desenvolvida e testada na seguinte versão:
+A tradução foi desenvolvida e testada na seguinte versão:
 
 | Item | Valor |
 |------|--------|
@@ -29,54 +29,75 @@ Outras versões ainda não foram testadas.
 
 ---
 
-## 📊 Status da tradução
+## 📊 Status do projeto
 
 - [x] Engenharia reversa da localização
 - [x] Extração do `Game.locres`
-- [x] Reempacotamento da tradução em `.pak`
+- [x] Reempacotamento em `.pak`
 - [x] Teste de carregamento realizado com sucesso
-- [X] Tradução da Interface
-- [X] Tradução dos diálogos
-- [ ] Revisão completa
+- [ ] Tradução completa da interface
+- [ ] Tradução completa dos diálogos
+- [ ] Revisão final
 - [ ] Release v1.0
+
+---
+
+## 📥 Download
+
+As versões públicas da tradução estarão disponíveis na aba **Releases** deste repositório.
+
+Cada release conterá um arquivo `.zip` com:
+
+- Arquivo `.pak` da tradução;
+- Instruções de instalação;
+- Informações sobre a versão.
 
 ---
 
 ## 📦 Instalação
 
-> Em breve.
+1. Baixe a versão mais recente na aba **Releases**.
+2. Extraia o arquivo `.zip`.
+3. Copie o arquivo `.pak` para:
 
-Quando a primeira versão pública estiver disponível, bastará copiar um único arquivo `.pak` para a pasta:
-
-```
+```text
 ModernStoryteller01/Content/Paks/
 ```
 
-Após isso será possível jogar normalmente.
+4. Inicie o jogo normalmente.
 
 ---
 
-## 🛠 Tecnologias utilizadas
+## 🤖 Sobre a tradução
+
+A tradução foi **gerada e revisada com auxílio do Gemini 3.6 Flash**, utilizando um fluxo de trabalho focado em preservar a estrutura original dos arquivos de localização do jogo.
+
+Após a geração, os arquivos passam por validações e testes diretamente no jogo para garantir que a tradução seja carregada corretamente e que a estrutura dos arquivos permaneça íntegra.
+
+---
+
+## 🛠 Ferramentas utilizadas
 
 - Unreal Engine 4.26
 - FModel
 - LocResUtility
 - Repak
+- Gemini 3.6 Flash
 
 ---
 
 ## 🤝 Contribuindo
 
-Contribuições são bem-vindas!
+Encontrou algum problema?
 
-Caso encontre:
+- Texto incorreto
+- Tradução inconsistente
+- Texto cortado
+- Erro de contexto
 
-- erros de tradução;
-- problemas de contexto;
-- textos cortados;
-- sugestões de melhoria;
+Abra uma **Issue** ou envie um **Pull Request**.
 
-abra uma **Issue** ou envie um **Pull Request**.
+Toda ajuda é bem-vinda!
 
 ---
 
@@ -84,7 +105,7 @@ abra uma **Issue** ou envie um **Pull Request**.
 
 Este projeto distribui **apenas arquivos de tradução**.
 
-Nenhum arquivo do jogo original é redistribuído.
+Nenhum arquivo pertencente ao jogo original é redistribuído.
 
 É necessário possuir uma cópia legítima de **The Forgotten City** para utilizar esta tradução.
 
@@ -92,16 +113,11 @@ Todos os direitos sobre o jogo pertencem aos seus respectivos desenvolvedores e 
 
 ---
 
-## ❤️ Agradecimentos
-
-- Modern Storyteller
-- Comunidade Unreal Engine
-- Ferramentas open source que possibilitaram o projeto
-
----
-
 ## ⚠ Aviso
 
-Este projeto não possui qualquer vínculo oficial com a Modern Storyteller.
+Este projeto é uma tradução criada por fãs e **não possui qualquer vínculo oficial** com a Modern Storyteller.
 
-Trata-se de uma tradução criada por fãs para fãs.
+## 👤 Autor
+
+**Guilherme Martins**  
+GitHub: https://github.com/GuilhermeZety

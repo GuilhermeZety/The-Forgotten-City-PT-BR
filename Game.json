@@ -34,7 +34,7 @@
               "Key": "57336F3149ED706186B14A81053F686B",
               "Hash": 2043338114,
               "Original": "\"A small community\"! Ha!",
-              "Value": "\"Uma pequena comunidade\"! Há!"
+              "Value": "\"Uma pequena comunidade\"! Ha!"
             },
             {
               "Key": "390EAAF646B859B54F92DCB9582BCDB2",
@@ -220,7 +220,7 @@
               "Key": "6EF80A234F1B4EB0DCD65C86E4493235",
               "Hash": 3930926768,
               "Original": "\"Meminisse semper vigilabant\" appears to be latin graffiti. I can't translate it, yet.",
-              "Value": "\"Meminisse semper vigilabant\" parece ser um piche em latim. Ainda não consigo traduzir."
+              "Value": "\"Meminisse semper vigilabant\" parece ser uma pichação em latim. Ainda não consigo traduzir."
             },
             {
               "Key": "7E3C25A54657C70A35A42CB3DE90906E",
@@ -460,7 +460,7 @@
               "Key": "F0BE293D4C02126EC5937B9A276060F6",
               "Hash": 1252777768,
               "Original": "\"To survive we must all be kind\", corrected to \"we must all be wise\", corrected to \"we must all be obedient\", and finally corrected to \"we must all be ???\"\".",
-              "Value": "\"Para sobreviver todos devemos ser bondosos\", corrigido para \"todos devemos ser sábios\", corrigido para \"todos devemos ser obedientes\" e, finalmente, corrigido para \"todos devemos ser ???\"\" ."
+              "Value": "\"Para sobreviver todos devemos ser bondosos\", corrigido para \"todos devemos ser sábios\", corrigido para \"todos devemos ser obedientes\" e, finalmente, corrigido para \"todos devemos ser ???\"\"."
             },
             {
               "Key": "884FC0B74D4491BF94DC97ABAE5C8167",
@@ -1462,19 +1462,19 @@
               "Key": "6095260846E8BA7809E32889B032276D",
               "Hash": 4257275181,
               "Original": "<gold>Archaeologist insight: </>",
-              "Value": "<gold>Conhecimento de Arqueólogo: </> "
+              "Value": "<gold>Conhecimento de Arqueólogo: </>"
             },
             {
               "Key": "8A9358744ECB8E4CFD4A1C8B2663809D",
               "Hash": 4257275181,
               "Original": "<gold>Archaeologist insight: </>",
-              "Value": "<gold>Conhecimento de Arqueólogo: </> "
+              "Value": "<gold>Conhecimento de Arqueólogo: </>"
             },
             {
               "Key": "F79931AC41F519EC51BDA2A7C058F747",
               "Hash": 4257275181,
               "Original": "<gold>Archaeologist insight: </>",
-              "Value": "<gold>Conhecimento de Arqueólogo: </> "
+              "Value": "<gold>Conhecimento de Arqueólogo: </>"
             },
             {
               "Key": "149CCFAA4CC4D72D7BF879A24B6E98F1",
@@ -2404,7 +2404,7 @@
               "Key": "84CDA3824FD0DA5F8EB6EE817FDC5A6F",
               "Hash": 1601992652,
               "Original": "A Roman anvil. It looks odd without a horn, but that must be a more modern innovation.",
-              "Value": "Uma bigorna romana. Parede estranha sem a ponta cônica, mas essa deve ser uma inovação mais moderna."
+              "Value": "Uma bigorna romana. Parece estranha sem a ponta cônica, mas essa deve ser uma inovação mais moderna."
             },
             {
               "Key": "2900C52E45F20893B61925AE74082541",
@@ -2656,13 +2656,13 @@
               "Key": "104A1ED34ABA8B631162D5B161CECBBF",
               "Hash": 1469451885,
               "Original": "A carving of a Lion. It looks Egyptian.",
-              "Value": "Uma escultura de um Leão. Parede egípcia."
+              "Value": "Uma escultura de um Leão. Parece egípcia."
             },
             {
               "Key": "643BCA654290B591F4480CB89FD4A471",
               "Hash": 1469451885,
               "Original": "A carving of a Lion. It looks Egyptian.",
-              "Value": "Uma escultura de um Leão. Parede egípcia."
+              "Value": "Uma escultura de um Leão. Parece egípcia."
             },
             {
               "Key": "6A4230614BA3D84680303188C00124B7",
@@ -3262,7 +3262,7 @@
               "Key": "FD8D2EB947C860B45EE8668964681AD0",
               "Hash": 4033305556,
               "Original": "A rudimentary doll. It looks like it has been well-loved.",
-              "Value": "Uma boneca rudimentar. Parede ter sido muito querida."
+              "Value": "Uma boneca rudimentar. Parece ter sido muito querida."
             },
             {
               "Key": "304A519349F7D24802CCEF9E9984C4A8",
@@ -4066,7 +4066,7 @@
               "Key": "904C6110408B655E58D3A891E432AE7C",
               "Hash": 1477200519,
               "Original": "Aeneas the Tactician wrote a siege-craft manual for military commanders some three hundred years ago, recommending the poisoning or pollution of cisterns.",
-              "Value": "Eneias, o Tático, escreveu um manual de táticas de cerco para comandantes militares há cerca de trêscentos anos, recomendando o envenenamento ou contaminação de cisternas."
+              "Value": "Eneias, o Tático, escreveu um manual de táticas de cerco para comandantes militares há cerca de trezentos anos, recomendando o envenenamento ou contaminação de cisternas."
             },
             {
               "Key": "2490E3064A48ABBD997231AA81C9F6BD",
@@ -4306,7 +4306,7 @@
               "Key": "6CA263DE419A12359AFF34A8E962F25E",
               "Hash": 2400167632,
               "Original": "Ah, poor fellow. I've heard that can really mess with a person's head. Well done for figuring that out!",
-              "Value": "Ah, coitado. Ouvi dizer que isso pode mexer muito com a cabeça de uma pessoa. Muito bem por ter descobri isso!"
+              "Value": "Ah, coitado. Ouvi dizer que isso pode mexer muito com a cabeça de uma pessoa. Muito bem por ter descoberto isso!"
             },
             {
               "Key": "1718C8A24677283348EFD69AEB99C3E5",
@@ -6352,7 +6352,7 @@
               "Key": "30F60F3341A2EC91ABA24FAD27962A2A",
               "Hash": 315673313,
               "Original": "And here I was thinking I was the only one to figure it out. In any case...",
-              "Value": "E eu aqui pensando que era o único a ter descobri isso. Seja como for..."
+              "Value": "E eu aqui pensando que era o único a ter descoberto isso. Seja como for..."
             },
             {
               "Key": "FBC7214744DB439B4BB2848797F2F8A8",
@@ -11992,7 +11992,7 @@
               "Key": "258F27E24F0BB0963A7E0B92F55F1D6A",
               "Hash": 2174927213,
               "Original": "Egyptian Vases",
-              "Value": "Vasos Egípcio"
+              "Value": "Vasos Egípcios"
             },
             {
               "Key": "80593D7A4ADF7644A330808321616650",
@@ -12526,7 +12526,7 @@
               "Key": "ECFD59C947ADEBF52BBC669E0C9B530A",
               "Hash": 928962599,
               "Original": "Every day I look at her, and this extraordinary new world, with all its beauty, and I think: What if I'd given up hope and missed out on all this?",
-              "Value": "Todos os dias olhado para ela, e para este novo mundo extraordinário, com toda a sua beleza, e penso: E se eu tivesse perdido a esperança e ficado sem nada disso?"
+              "Value": "Todos os dias olho para ela, e para este novo mundo extraordinário, com toda a sua beleza, e penso: E se eu tivesse perdido a esperança e ficado sem nada disso?"
             },
             {
               "Key": "4A87F5BB46CAFEDF12528CB050F326BD",
@@ -13096,7 +13096,7 @@
               "Key": "4AE0A78644EFD90446E9A88EE218A034",
               "Hash": 2234744552,
               "Original": "Family's from Seleucia-on-Tigris. Babylon province. But I've been Roman a long time now. Even joined the Legions. The sixth. The one they call \"Ironclads\".",
-              "Value": "Minha família é de Seleêucia do Tigre. Província da Babilônia. Mas sou romano há muito tempo. Até me juntei às Legiões. A sexta. Aquela que chamam de \"Acoraçadas\"."
+              "Value": "Minha família é de Seleucia, na província da Babilônia. Mas sou romano há muito tempo. Até me juntei às Legiões. A sexta. Aquela que chamam de \"Blindados de Ferro\"."
             },
             {
               "Key": "343B38614A6467301BB73A9DBAE30636",
@@ -23872,7 +23872,7 @@
               "Key": "8E60867D42BA1866B44D069A006D4DB5",
               "Hash": 953170676,
               "Original": "I'm studying to get into medical school. As much as I resented the responsibility of keeping everyone in the city alive...",
-              "Value": "Estou estudando para entrar na faculdade de medicina. Por mais que eu seasse a responsabilidade de manter todos na cidade vivos..."
+              "Value": "Estou estudando para entrar na faculdade de medicina. Por mais que eu sentisse a responsabilidade de manter todos na cidade vivos..."
             },
             {
               "Key": "C38C120C4E5697F32E56BEA8D0C9ECA4",
@@ -25144,7 +25144,7 @@
               "Key": "592BAB3041B34622038F489CEB589EB9",
               "Hash": 4238260256,
               "Original": "In that case: Deal's off. <gold>(Bluff)</>",
-              "Value": "Nesse caso: Negócio desfeito. <gold>(Mochilar/Blefar)</>"
+              "Value": "Nesse caso: Negócio desfeito. <gold>(Blefe)</>"
             },
             {
               "Key": "824B8B634872C4368C0ACB848E1F55ED",
@@ -26944,7 +26944,7 @@
               "Key": "9E7AAC494206586D84EC71B98C0D5824",
               "Hash": 1149161162,
               "Original": "Iulia to her captors Malleolus and Claudia, curse you to the depths!\r\nBy the time you read this, I'll already be dead. Because death is preferable to another day in debt bondage to you. May vultures peck out your livers in Tartarus for all of eternity!",
-              "Value": "Iulia para seus captores Malleolus e Claudia, que vocês sejam amaldiçoados até as profundezas!\r\nQuando lerem isto, eu já estarei morta. Porque a morte é preferível a passar mais um dia em servidão por dívidas para vocês. Que urubus mebicam seus fígados no Tártaro por toda a eternidade!"
+              "Value": "Iulia para seus captores Malleolus e Claudia, que vocês sejam amaldiçoados até as profundezas!\r\nQuando lerem isto, eu já estarei morta. Porque a morte é preferível a passar mais um dia em servidão por dívidas para vocês. Que urubus biquem seus fígados no Tártaro por toda a eternidade!"
             },
             {
               "Key": "4E89E16E4AECD828EB1C48B572ECBD57",
@@ -29404,7 +29404,7 @@
               "Key": "DA1E84E8450B0CE55F5645AFB0C40306",
               "Hash": 2782302399,
               "Original": "My dearest father and sister\r\nI am sorry to have to leave you this way, but I have found a way to escape, and I have decided to take it. I hope we meet again some day.\r\nLove always\r\nSentilla",
-              "Value": "Meu queridíssimo pai e irmã\r\nSinto muito ter que deixá-los desta forma, mas encontrei uma maneira de escapar e decidi aproveitá-la. Espero que nos reapaçamos algum dia.\r\nCom amor de sempre\r\nSentilla"
+              "Value": "Meu queridíssimo pai e irmã\r\nSinto muito ter que deixá-los desta forma, mas encontrei uma maneira de escapar e decidi aproveitá-la. Espero que nos reencontremos algum dia.\r\nCom amor de sempre\r\nSentilla"
             },
             {
               "Key": "B83653F34ABDD42041E6CFBC2D180BB3",
@@ -33952,7 +33952,7 @@
               "Key": "29088F1E462D174D8CC6D9A07205B941",
               "Hash": 1254667885,
               "Original": "Ragged Doll",
-              "Value": "Boneca Harrapada"
+              "Value": "Boneca Farrapada"
             },
             {
               "Key": "5A7F311146964F8D7BCC2BBE694F9CC0",
@@ -34690,7 +34690,7 @@
               "Key": "28D3A8DB4B4B05C37B2017A414DA3C44",
               "Hash": 2420156461,
               "Original": "Salve again, my Sisyphean friend!",
-              "Value": "Salve novamente, meu amigo sisífeog!"
+              "Value": "Salve novamente, meu amigo sisífeo!"
             },
             {
               "Key": "CD7ACD824E42547DF04951AB9A900A4F",
@@ -35314,7 +35314,7 @@
               "Key": "C14A80F744D5676C651A51BC79AA37A0",
               "Hash": 4189101554,
               "Original": "Sentilla, to Sentius and Sentia, may Clementia give you the strength to forgive me. \r\n\u00A0\u00A0\r\nI am sorry to have to leave you this way, but I have found a way to escape, and I must take it. \r\n\u00A0\u00A0\r\nI hope we meet again some day.",
-              "Value": "Sentilla, para Sentius e Sentia, que Clemência lhes dê forças para me perdoar. \r\n\u00A0\u00A0\r\nSinto muito ter que deixá-los desta forma, mas encontrei uma maneira de escapar e preciso aproveitá-la. \r\n\u00A0\u00A0\r\nEspero que nos reapaçamos algum dia."
+              "Value": "Sentilla, para Sentius e Sentia, que Clemência lhes dê forças para me perdoar. \r\n\u00A0\u00A0\r\nSinto muito ter que deixá-los desta forma, mas encontrei uma maneira de escapar e preciso aproveitá-la. \r\n\u00A0\u00A0\r\nEspero que nos reencontremos algum dia."
             },
             {
               "Key": "5AF6C6E54C9252AE273C65B122905946",
@@ -42166,7 +42166,7 @@
               "Key": "07F5A89B4E4C62667AD13290D037FBBB",
               "Hash": 1454027191,
               "Original": "Uh... Look, if you don't want to tell me, I won't look a gift horse in the mouth. But no matter...",
-              "Value": "Er... Olhe, se não quiser me contar, não vou cavalo dado não se olha os dentes. Mas não importa..."
+              "Value": "Er... Olhe, se não quiser me contar, a cavalo dado não se olham os dentes. Mas não importa..."
             },
             {
               "Key": "29FAEC6549EDD7C4ED6505A92657DAAA",
@@ -42466,7 +42466,7 @@
               "Key": "E0A5D47B4BB0B0C549AFC39A53CACA1C",
               "Hash": 1062998397,
               "Original": "Ulpius to his lost love, may God watch over you. \r\nPlease know that I held on as long as I could, but without you, my life is meaningless. I only hope we meet again in Gan Eden.",
-              "Value": "Ulpius para seu amor perdido, que Deus cuide de você. \r\nPor favor saiba que aguentei o máximo que pude, mas sem você, minha vida não tem sentido. Só espero que nos reapaçamos em Gan Éden."
+              "Value": "Ulpius para seu amor perdido, que Deus cuide de você. \r\nPor favor saiba que aguentei o máximo que pude, mas sem você, minha vida não tem sentido. Só espero que nos reencontremos em Gan Éden."
             },
             {
               "Key": "5A9DF9A24EF74CAA9D493582A6D9865B",
@@ -42790,7 +42790,7 @@
               "Key": "51ADB8DC42BCBC10124D0A9DF8779DAB",
               "Hash": 2278534836,
               "Original": "Usually, however, you wouldn't simply march up to a Vestal Priestess and without due formality or courtesy ask, \"What is your story?\"",
-              "Value": "Geralmente, no entanto, você não simplesmente marcharita até uma Sacerdotisa Vestal e, sem a devida formalidade ou cortesia, perguntaria: \"Qual é a sua história?\""
+              "Value": "Geralmente, no entanto, você não simplesmente marcharia até uma Sacerdotisa Vestal e, sem a devida formalidade ou cortesia, perguntaria: \"Qual é a sua história?\""
             },
             {
               "Key": "71999CCE471F4C93D71112BD48643E39",
@@ -42808,7 +42808,7 @@
               "Key": "6CE671A3459763CA16C9D082E2698136",
               "Hash": 1788857445,
               "Original": "VERGIL\r\n\r\nTHEY MAY NOT SEE YOU, YET, BUT I WANT YOU TO KNOW:\r\n\r\nI SEE YOU.",
-              "Value": "VERGIL\r\n\r\nELES PODEM NÃO ESTAR VENDO VOCÊ, AINDA, MAS QUERO QUE SAIPA:\r\n\r\nEU ESTOU VENDO VOCÊ."
+              "Value": "VERGIL\r\n\r\nELES PODEM NÃO ESTAR VENDO VOCÊ, AINDA, MAS QUERO QUE SAIBA:\r\n\r\nEU ESTOU VENDO VOCÊ."
             },
             {
               "Key": "30EDBFDA4B9F9A9F2CFD149F31E7DCD0",
@@ -45940,7 +45940,7 @@
               "Key": "C312C73843158111BAB2C7A905DDE748",
               "Hash": 1770834845,
               "Original": "Where have you been, you little <latin>stercus</>? You shouldn't even be outside the villa!",
-              "Value": "Onde você esteve, seu pequenos <latin>stercus</>? Você nem deveria estar fora da vila!"
+              "Value": "Onde você esteve, seu pequeno <latin>stercus</>? Você nem deveria estar fora da vila!"
             },
             {
               "Key": "60039F5A45206CAA7F1A329BB2868EAA",
@@ -46060,7 +46060,7 @@
               "Key": "7619738E4D40C8017C212D9E31D24A0A",
               "Hash": 50180385,
               "Original": "While the others indulged at the banquet, the second woman summoned the first for a discussion in a quiet place. ",
-              "Value": "Enquanto os outros se me banqueteavam, a segunda mulher chamou a primeira para uma conversa em um lugar tranquilo. "
+              "Value": "Enquanto os outros se banqueteavam, a segunda mulher chamou a primeira para uma conversa em um lugar tranquilo. "
             },
             {
               "Key": "0453A56D4E5BD64F6E432BBBD2E6F552",
@@ -47248,7 +47248,7 @@
               "Key": "7BC4B4444FB886DC15C8609573EAEE91",
               "Hash": 3577958319,
               "Original": "Yes, I suppose that could be something... But then, most of us do tend to carry coins on our person, don't we?",
-              "Value": "Sim, suponho que isso possa ser algo... Mas, pensand bem, a maioria de nós costuma carregar moedas consigo, não é?"
+              "Value": "Sim, suponho que isso possa ser algo... Mas, pensando bem, a maioria de nós costuma carregar moedas consigo, não é?"
             },
             {
               "Key": "23F8D94240612F9E2A5C939BB29CC2E1",
@@ -48784,7 +48784,7 @@
               "Key": "A98EE19E4F157E1D197E9EBD0480D032",
               "Hash": 3425208219,
               "Original": "You wouldn't believe me if I told you.",
-              "Value": "Você não me me me acreditaria se eu lhe contasse."
+              "Value": "Você nunca me acreditaria se eu lhe contasse."
             },
             {
               "Key": "59E274A54AF9DAAFD616E2B5C4AC0F44",
