@@ -2,7 +2,7 @@
 
 Tradução não oficial (fan translation) de **The Forgotten City** para **Português do Brasil**.
 
-> **Status:** 🚧 Em desenvolvimento
+> **Status:** ✅ Disponível (v1.0)
 
 ---
 
@@ -45,6 +45,7 @@ Outras versões ainda não foram testadas.
 ## 📥 Download
 
 As versões públicas da tradução estarão disponíveis na aba **Releases** deste repositório.
+[Releases](https://github.com/GuilhermeZety/The-Forgotten-City-PT-BR/releases)
 
 Cada release conterá um arquivo `.zip` com:
 
