@@ -2,7 +2,7 @@
 
 Tradução não oficial (fan translation) de **The Forgotten City** para **Português do Brasil**.
 
-> **Status:** 🚧 Em desenvolvimento
+> **Status:** ✅ Disponível (v1.0)
 
 ---
 
