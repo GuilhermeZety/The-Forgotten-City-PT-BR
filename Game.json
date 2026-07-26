@@ -10198,13 +10198,13 @@
               "Key": "2B9503534A74DFF47D77CFBF71D8C967",
               "Hash": 2007332868,
               "Original": "Comfort",
-              "Value": "Comfort"
+              "Value": "Conforto"
             },
             {
               "Key": "A9FDC13F413EDCD8B8D29DB3027C7F4A",
               "Hash": 2007332868,
               "Original": "Comfort",
-              "Value": "Comfort"
+              "Value": "Conforto"
             },
             {
               "Key": "9E6AE1AD46B8960FA8412681CDC19660",
@@ -49653,31 +49653,31 @@
               "Key": "BP_Nameless_God_Obelisk_Description",
               "Hash": 4189286222,
               "Original": "An ancient stone obelisk, inscribed on each side by a different civilization.",
-              "Value": "An ancient stone obelisk, inscribed on each side by a different civilization."
+              "Value": "Um antigo obelisco de pedra, gravado de cada lado por uma civilização diferente."
             },
             {
               "Key": "BP_CenturionEnforcer_InteractVerb",
               "Hash": 1469675724,
               "Original": "Attempt Stealing",
-              "Value": "Attempt Stealing"
+              "Value": "Tentar Roubar"
             },
             {
               "Key": "InventoryItem_Verb_Examine",
               "Hash": 2567674152,
               "Original": "Examine",
-              "Value": "Examine"
+              "Value": "Examinar"
             },
             {
               "Key": "BP_CenturionEnforcer_InteractName",
               "Hash": 3261365409,
               "Original": "Golden Bow",
-              "Value": "Golden Bow"
+              "Value": "Arco Dourado"
             },
             {
               "Key": "BP_Nameless_God_Plaque_Slot_Description",
               "Hash": 995554307,
               "Original": "It seems somebody removed a plaque from here. I’ll need to find it to decipher the meaning of the obelisk.",
-              "Value": "It seems somebody removed a plaque from here. I’ll need to find it to decipher the meaning of the obelisk."
+              "Value": "Parece que alguém removeu uma placa daqui. Precisarei encontrá-la para decifrar o significado do obelisco."
             },
             {
               "Key": "InteractableComponent_DefaultName",
@@ -49689,37 +49689,37 @@
               "Key": "InventoryItem_Verb_Read",
               "Hash": 3149299003,
               "Original": "Read",
-              "Value": "Read"
+              "Value": "Ler"
             },
             {
               "Key": "BP_ZipLineRider_Verb",
               "Hash": 1323325883,
               "Original": "Ride",
-              "Value": "Ride"
+              "Value": "Usar"
             },
             {
               "Key": "InventoryItem_Verb_Steal",
               "Hash": 2740310380,
               "Original": "Steal",
-              "Value": "Steal"
+              "Value": "Roubar"
             },
             {
               "Key": "InventoryItem_Verb_Collect",
               "Hash": 3260896269,
               "Original": "Take",
-              "Value": "Take"
+              "Value": "Pegar"
             },
             {
               "Key": "InteractableComponent_DefaultVerb",
               "Hash": 4046092849,
               "Original": "Use",
-              "Value": "Use"
+              "Value": "Usar"
             },
             {
               "Key": "BP_ZipLineRider_Name",
               "Hash": 3047073118,
               "Original": "Zip Line",
-              "Value": "Zip Line"
+              "Value": "Tirolesa"
             },
             {
               "Key": "LoadSave_PrettySaveName",
@@ -49736,25 +49736,25 @@
               "Key": "UEnvQueryTest_WorksiteVacant_Description",
               "Hash": 1130723538,
               "Original": "Is Vacant: {0}",
-              "Value": "Is Vacant: {0}"
+              "Value": "Está Vago: {0}"
             },
             {
               "Key": "QuestDefaultTitle",
               "Hash": 1199415896,
               "Original": "Quest Title",
-              "Value": "Quest Title"
+              "Value": "Título da Missão"
             },
             {
               "Key": "QuestDefaultDescription",
               "Hash": 2941668486,
               "Original": "Quest background info, motivations etc.",
-              "Value": "Quest background info, motivations etc."
+              "Value": "Informações de contexto da missão, motivações, etc."
             },
             {
               "Key": "SubQuestDefaultTitle",
               "Hash": 4118770556,
               "Original": "Task Title",
-              "Value": "Task Title"
+              "Value": "Título da Tarefa"
             }
           ]
         },
@@ -49765,25 +49765,25 @@
               "Key": "UQC_CheckMemory::GetDescription::Invalid",
               "Hash": 1665117271,
               "Original": "INVALID",
-              "Value": "INVALID"
+              "Value": "INVÁLIDO"
             },
             {
               "Key": "BindingNotFound",
               "Hash": 3843245556,
               "Original": "INVALID BINDING NAME",
-              "Value": "INVALID BINDING NAME"
+              "Value": "NOME DE ATRIBUIÇÃO INVÁLIDO"
             },
             {
               "Key": "DefaultCharacterName",
               "Hash": 3597405662,
               "Original": "Stranger",
-              "Value": "Stranger"
+              "Value": "Forasteiro"
             },
             {
               "Key": "UQC_CheckMemory::GetDescription",
               "Hash": 3582962722,
               "Original": "When {0} {1} {2}.",
-              "Value": "When {0} {1} {2}."
+              "Value": "Quando {0} {1} {2}."
             }
           ]
         },
@@ -49852,7 +49852,7 @@
               "Key": "Archaeologist_Insight",
               "Hash": 551654991,
               "Original": "<gold>Archaeologist insight:</>",
-              "Value": "<gold>Archaeologist insight:</>"
+              "Value": "<gold>Conhecimento de Arqueólogo:</>"
             }
           ]
         },
@@ -50042,13 +50042,13 @@
               "Key": "BP_Ending2_Sequence_TextCard",
               "Hash": 4153267700,
               "Original": "ONE YEAR LATER",
-              "Value": "ONE YEAR LATER"
+              "Value": "UM ANO DEPOIS"
             },
             {
               "Key": "BP_NewGameSequence_TextCard",
               "Hash": 794520585,
               "Original": "PRESENT DAY",
-              "Value": "PRESENT DAY"
+              "Value": "DIAS ATUAIS"
             }
           ]
         },
@@ -50329,7 +50329,7 @@
               "Key": "Settings_Language_English",
               "Hash": 1774339110,
               "Original": "English",
-              "Value": "Inglês"
+              "Value": "Português"
             },
             {
               "Key": "Scalability_Epic",
