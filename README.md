@@ -8,7 +8,7 @@ Tradução não oficial (fan translation) de **The Forgotten City** para **Portu
 
 ## 📖 Sobre o projeto
 
-Este projeto tem como objetivo traduzir completamente o jogo **The Forgotten City** para Português do Brasil.
+Este projeto tem como objetivo traduzir completamente o jogo **The Forgotten City** para **Português do Brasil**.
 
 A tradução é distribuída através de um arquivo `.pak`, preservando todos os arquivos originais do jogo.
 
@@ -35,10 +35,10 @@ Outras versões ainda não foram testadas.
 - [x] Extração do `Game.locres`
 - [x] Reempacotamento em `.pak`
 - [x] Teste de carregamento realizado com sucesso
-- [ ] Tradução completa da interface
-- [ ] Tradução completa dos diálogos
-- [ ] Revisão final
-- [ ] Release v1.0
+- [x] Tradução completa da interface
+- [x] Tradução completa dos diálogos
+- [x] Revisão final
+- [x] Release v1.0
 
 ---
 
@@ -65,14 +65,21 @@ ModernStoryteller01/Content/Paks/
 ```
 
 4. Inicie o jogo normalmente.
+5. No menu de idiomas, selecione **English**.
+
+> **⚠ Importante**
+>
+> Enquanto o arquivo `.pak` da tradução estiver presente na pasta `Content/Paks`, o idioma **English** será substituído pela tradução em **Português do Brasil**.
+>
+> Para restaurar o idioma original, basta remover o arquivo `.pak` da pasta.
 
 ---
 
 ## 🤖 Sobre a tradução
 
-A tradução foi **gerada e revisada com auxílio do Gemini 3.6 Flash**, utilizando um fluxo de trabalho focado em preservar a estrutura original dos arquivos de localização do jogo.
+A tradução foi **gerada e revisada com auxílio do Gemini 3.6 Flash**, utilizando um fluxo de trabalho desenvolvido especificamente para preservar a estrutura original dos arquivos de localização do jogo.
 
-Após a geração, os arquivos passam por validações e testes diretamente no jogo para garantir que a tradução seja carregada corretamente e que a estrutura dos arquivos permaneça íntegra.
+Todo o processo de extração, conversão, empacotamento, testes e validação foi realizado manualmente, garantindo que apenas os textos fossem alterados, sem modificar os arquivos originais do jogo.
 
 ---
 
@@ -90,10 +97,10 @@ Após a geração, os arquivos passam por validações e testes diretamente no j
 
 Encontrou algum problema?
 
-- Texto incorreto
-- Tradução inconsistente
-- Texto cortado
-- Erro de contexto
+- Texto incorreto;
+- Tradução inconsistente;
+- Texto cortado;
+- Erro de contexto.
 
 Abra uma **Issue** ou envie um **Pull Request**.
 
@@ -116,6 +123,8 @@ Todos os direitos sobre o jogo pertencem aos seus respectivos desenvolvedores e 
 ## ⚠ Aviso
 
 Este projeto é uma tradução criada por fãs e **não possui qualquer vínculo oficial** com a Modern Storyteller.
+
+---
 
 ## 👤 Autor
 
