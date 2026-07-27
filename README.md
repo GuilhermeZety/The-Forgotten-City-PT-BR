@@ -66,11 +66,11 @@ ModernStoryteller01/Content/Paks/
 ```
 
 4. Inicie o jogo normalmente.
-5. No menu de idiomas, selecione **English**.
+5. No menu de idiomas, selecione **Português** (Antigo English).
 
 > **⚠ Importante**
 >
-> Enquanto o arquivo `.pak` da tradução estiver presente na pasta `Content/Paks`, o idioma **English** será substituído pela tradução em **Português do Brasil**.
+> Enquanto o arquivo `.pak` da tradução estiver presente na pasta `Content/Paks`, o idioma **English** será substituído pela tradução em **Português**.
 >
 > Para restaurar o idioma original, basta remover o arquivo `.pak` da pasta.
 
